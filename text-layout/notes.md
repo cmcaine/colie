@@ -6,6 +6,9 @@ LaTeX is really good at producing beautiful text. HTML/CSS is not. We see no rea
 A first step might be to improve the eBook reader in Calibre. That seems to use web style stuff, inc. CSS.
 We might consider contacting Medium, or similar text-based web companies to see if they care.
 
+coolreader3 https://aur.archlinux.org/packages/coolreader3-git/ does floating punctuation, but doesn't seem to hyphenate? also buggy on HiDPI displays.
+
+fbpdf is a CLI PDF reader. Maybe making text rendering on that better could prove instructive?
 
 ## Useful links
 https://developer.mozilla.org/en-US/docs/Web/CSS/text-rendering -- Ligatures
